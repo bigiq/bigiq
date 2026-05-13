@@ -56,13 +56,7 @@ I am **Wasib Ahmed Chayan**, a passionate developer dedicated to building intell
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigiq&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigiq&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bigiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigiq&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bigiq&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
