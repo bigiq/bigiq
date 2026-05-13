@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=250&section=header&text=Wasib%20Ahmed%20Chayan&fontSize=70&animation=fadeIn&fontColor=58a6ff&theme=dark" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Wasib%20Ahmed%20Chayan&fontSize=70&animation=fadeIn&fontColor=58a6ff&theme=dark" /> </p>
 
 <p align="center">
   <a href="https://github.com/bigiq">
@@ -51,12 +51,7 @@ I am **Wasib Ahmed Chayan**, a passionate developer dedicated to building intell
 </p>
 
 #### 🌐 Specialized Fields
-<p align="left">
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-0172B2?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</p>
-
+<p align="left"> <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Engineering-0172B2?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Development-005CFE?style=for-the-badge&logo=google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/App%20Development-A259FF?style=for-the-badge&logo=android&logoColor=white" /> </p>
 ---
 
 ### 📊 GitHub Statistics
